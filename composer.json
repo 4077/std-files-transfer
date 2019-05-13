@@ -1,0 +1,15 @@
+{
+    "name": "fed/std-files-transfer",
+    "type": "ewma-module",
+    "description": "files transporter",
+    "authors": [
+        {
+            "name": "fed",
+            "email": "ewmafw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fed/ewma-module-installer-plugin": "~0.0.1"
+    }
+}
